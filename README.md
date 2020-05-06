@@ -1,3 +1,3 @@
-# donho.github.io
+# chipnich.github.io
 All about me:
-http://donho.github.io/
+http://chipnich.github.io/
